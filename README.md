@@ -79,4 +79,10 @@ Project Tags
 
 #SQL #Server • #Power BI • #DAX • #Healthcare Analytics • #Business Intelligence • #Data Visualization • #Dashboard Development • #Data Modeling
 
+Author
+
+Dr. Ghada Elfeki
+
+Data Analyst | Molecular Biologist
+
 Successfully developed a comprehensive healthcare analytics solution that provides clear visibility into patient encounters, healthcare costs, insurance coverage, and clinical trends through an interactive Power BI dashboard.
